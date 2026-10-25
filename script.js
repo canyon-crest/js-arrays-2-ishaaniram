@@ -82,7 +82,7 @@ console.log("Sum: " + sum);
 //         Print: console.log("Average: " + average)
 //         (No rounding needed)
 let average = sum / numbers.length;
-console.log("Average" + average);
+console.log("Average: " + average);
 
 // STEP 8: Count how many numbers are even.
 //         A number is even if number % 2 equals 0.
